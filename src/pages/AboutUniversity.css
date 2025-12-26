@@ -1,0 +1,31 @@
+.page-banner {
+  background: #3b3b3b;
+  color: #fff;
+  padding: 30px 60px;
+}
+
+.page-banner h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.page-banner p {
+  margin-top: 6px;
+  font-size: 14px;
+  color: #ddd;
+}
+
+.about-container {
+  display: flex;
+  gap: 40px;
+  padding: 50px 80px;
+}
+
+.about-container img {
+  width: 420px;
+}
+
+.about-text {
+  font-size: 15px;
+  line-height: 1.8;
+}

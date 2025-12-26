@@ -1,0 +1,47 @@
+.about-page {
+  background: #fff;
+}
+
+/* Banner */
+.page-banner {
+  background: #2f2f2f;
+  color: #fff;
+  padding: 40px 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-banner h1 {
+  font-size: 32px;
+  margin: 0;
+}
+
+.page-banner p {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+/* Content */
+.content-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.section-subtitle {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.section-title {
+  font-size: 32px;
+  margin: 20px 0 10px;
+}
+
+.content-container p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #333;
+}
