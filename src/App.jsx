@@ -13,7 +13,7 @@ import History from "./pages/History";
 
 function App() {
   return (
-    <BrowserRouter basename="/allahabad-university">
+    <BrowserRouter basename="/srikrishnadevaraya-university">
       <TopNotice />
       <Header />
       <Navbar />
