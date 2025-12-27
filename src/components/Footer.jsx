@@ -8,12 +8,12 @@ const Footer = () => {
       <div className="footer-main">
         <div>
           <h4>Contact</h4>
-          <p><b>University of Allahabad</b></p>
+          <p><b>Sri Krishnadevaraya University</b></p>
           <p>Senate House Campus,</p>
-          <p>University Road, Old Katra,</p>
-          <p>Prayagraj (Allahabad)</p>
-          <p>Uttar Pradesh - 211002</p>
-          <p>0532-2461083</p>
+          <p>Sku Main Gate, Road, Opposite YSR Statue, beside Highway Daba, Akutotapally, Anantapur</p>
+          <p>SKUCET (Ananthapur)</p>
+          <p>Andhra Pradesh - 515003</p>
+          <p>085542 55700</p>
 
           <h4 className="mt">For Visitors</h4>
           <p>Address</p>
@@ -48,7 +48,6 @@ const Footer = () => {
           <p>Contact Us</p>
           <p>Web Mail</p>
           <p>University Ranking</p>
-          <p>NCTE, New Delhi</p>
           <p>Code Of Conduct</p>
         </div>
       </div>
@@ -58,7 +57,7 @@ const Footer = () => {
         <div className="footer-bottom-inner">
 
           <span>
-            ©Copyright University of Allahabad. All Rights Reserved.
+            ©Copyright SKU University. All Rights Reserved.
           </span>
 
           <span className="visitor">

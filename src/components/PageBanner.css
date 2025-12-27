@@ -19,3 +19,12 @@
   color: #cfcfcf;
   font-size: 14px;
 }
+@media (max-width: 768px) {
+  .page-banner h1 {
+    font-size: 20px;
+  }
+
+  .page-banner p {
+    font-size: 12px;
+  }
+}

@@ -16,7 +16,7 @@ const announcements = [
   },
   {
     id: 4,
-    title:"Celebration of 138th Foundation Day of University of Allahabad",
+    title:"Celebration of 138th Foundation Day of Sri Krishnadevaraya University",
     url: "https://www.youtube.com/live/R-yzZ6ucTFU"
   },
   {
@@ -46,7 +46,7 @@ const announcements = [
   },
   {
     id: 10,
-    title: "Citadel of Learning: The Glory of University of Allahabad",
+    title: "Citadel of Learning: The Glory of Sri Krishnadevaraya University",
     url: ""
   }
 ];

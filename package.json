@@ -2,7 +2,7 @@
 
   "name": "university",
 
-  "homepage": "https://rajeswarikodigudla.github.io/allahabad-university",
+  "homepage": "https://rajeswarikodigudla.github.io/srikrishna-university",
 
   "version": "0.1.0",
 
@@ -31,14 +31,20 @@
   },
 
   "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-},
 
+    "start": "react-scripts start",
+
+    "build": "react-scripts build",
+
+    "predeploy": "npm run build",
+
+    "deploy": "gh-pages -d build",
+
+    "test": "react-scripts test",
+
+    "eject": "react-scripts eject"
+
+  },
 
   "eslintConfig": {
 

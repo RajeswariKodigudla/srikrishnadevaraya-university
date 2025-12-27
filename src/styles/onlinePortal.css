@@ -48,3 +48,19 @@
 .portal-text:hover {
   background: #7f1528;
 }
+
+
+@media (max-width: 768px) {
+  .portal-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+
+  .portal-card {
+    width: 100%;
+  }
+
+  .portal-text {
+    font-size: 12px;
+  }
+}

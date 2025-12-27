@@ -12,10 +12,10 @@ export default function Header() {
 
       {/* UNIVERSITY NAME */}
       <div className="title">
-        <h1>इलाहाबाद विश्वविद्यालय</h1>
-        <h2>UNIVERSITY OF ALLAHABAD</h2>
+        <h1>శ్రీకృష్ణదేవరాయ విశ్వవిద్యాలయం</h1>
+        <h2>SRI KRISHNADEVARAYA UNIVERSITY ANANTHAPUR</h2>
         <p>(A Central University)</p>
-        <span>Accredited with A+ Grade by NAAC</span>
+        <span>(Approved by AICTE & Accredited by NAAC)</span>
       </div>
 
       {/* RIGHT LOGO */}
