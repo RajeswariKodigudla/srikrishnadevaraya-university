@@ -1,5 +1,3 @@
-import "./PageBanner.css";
-
 export default function PageBanner({ title, breadcrumb }) {
   return (
     <div className="page-banner">
